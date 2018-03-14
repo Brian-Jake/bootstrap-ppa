@@ -68,15 +68,14 @@ h5 {
     color: #FFF;
 }
 .circles {
-    text-align: center;
 }
 
-.col-md-2 {
+.col-sm-2 {
     padding:0;
 }
 
 .pics {
-    height: 200px;
+    height: 100%;
     width: 100%;
 }
 
@@ -170,5 +169,9 @@ h1 {
 
 .circleBase>p {
     font-size: 12px;
+    text-align: center;
+}
+
+.col {
     text-align: center;
 }
