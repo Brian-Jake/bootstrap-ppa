@@ -5,6 +5,7 @@ nav img {
 
 body {
     background-color: #F0F0F0;
+    font-family: 'Anton', sans-serif;
 }
 
 h5 {
@@ -59,6 +60,29 @@ h5 {
 }
 
 .pics {
-    height: 105px;
-    width: 140px;
+    height: 200px;
+    width: 100%;
+}
+
+div>h5 {
+    text-align: left;
+    margin: 0;
+}
+
+.sidebar {
+    height: 50px;
+    width: 50px;
+}
+
+p {
+    font-family: 'Abel', sans-serif;
+}
+
+.siderow {
+    margin-top: 2.5em;
+}
+
+.twitter {
+    height: 18px;
+    width: 18px;
 }
