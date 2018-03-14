@@ -1,0 +1,46 @@
+nav img {
+    height: 105px;
+    width: 105px;
+}
+
+body {
+    background-color: #F0F0F0;
+}
+
+.container>h1 {
+    margin: 1.5em;
+}
+
+.btn-circle {
+    width: 105px;
+    height: 105px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.428571429;
+    border-radius: 50%;
+}
+
+.btn-red {
+    background-color: #e6563b;
+    border-color: #FFF;
+    color: #FFF;
+}
+
+.btn-orange {
+    background-color: #EB9D3A;
+    border-color: #FFF;
+    color: #FFF;
+}
+
+.btn-green {
+    background-color: #7cb06c;
+    border-color: #FFF;
+    color: #FFF;
+}
+
+.btn-blue {
+    background-color: #00aba9;
+    border-color: #FFF;
+    color: #FFF;
+}
