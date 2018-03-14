@@ -7,6 +7,12 @@ body {
     background-color: #F0F0F0;
 }
 
+h5 {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 33px;
+}
+
 .container>h1 {
     margin: 1.5em;
 }
@@ -43,4 +49,16 @@ body {
     background-color: #00aba9;
     border-color: #FFF;
     color: #FFF;
+}
+.circles {
+    text-align: center;
+}
+
+.col-md-2 {
+    padding:0;
+}
+
+.pics {
+    height: 105px;
+    width: 140px;
 }
