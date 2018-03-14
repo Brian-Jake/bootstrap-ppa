@@ -3,6 +3,10 @@ nav img {
     width: 105px;
 }
 
+main {
+    padding-top: 50px;
+}
+
 .nav-link {
     color: black;
     display: inline;
@@ -21,8 +25,8 @@ body {
 
 h5 {
     text-align: center;
-    margin-bottom: 0px;
-    margin-top: 33px;
+    margin-bottom: 0;
+    margin-top: 27px;
 }
 
 .container>h1 {
@@ -30,14 +34,14 @@ h5 {
 }
 
 .btn-circle {
-    width: 99px;
-    height: 99px;
+    width: 95px;
+    height: 95px;
     text-align: center;
     padding: 6px 0;
     font-size: 12px;
     line-height: 1.428571429;
     border-radius: 50%;
-    border: solid white;
+    border: solid white 5px;
 }
 
 .btn-red {
