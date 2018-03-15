@@ -4,7 +4,6 @@ nav img {
 }
 
 main {
-    padding-top: 50px;
 }
 
 .nav-link {
@@ -115,6 +114,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar {
     padding-left: 0;
     padding-right: 0;
+    padding-top: 2em;
 }
 /*.icon {*/
     /*width: 50px;*/
@@ -230,14 +230,11 @@ h1, h2, h3, h4, h5, h6 {
 .nav2 {
     float: right;
     text-align: center;
-    margin-right: 100px;
 }
 
 .nav1 {
     float: left;
     text-align: center;
-    margin-left: 100px;
-
 }
 
 .cir-right {
@@ -255,4 +252,50 @@ h1, h2, h3, h4, h5, h6 {
     .cir-left>div {
         text-align: left;
     }
+}
+
+.navbar-small {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    margin-top: -55px;
+}
+
+.links2 {
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    color: black;
+    line-height: 3em;
+    height: 50px;
+    overflow: visible;
+}
+
+.navleft {
+    float: left;
+    width: 50%;
+}
+
+.navright {
+    float: right;
+    width: 50%;
+}
+
+.navbar-brand2 img{
+    background: transparent;
+    position: relative;
+    top: 77px;
+    float: clear;
+}
+
+.title {
+    width: 100%;
+}
+
+.col-sm-12 {
+    padding: 0;
+}
+
+.container {
+    padding: 0;
 }
