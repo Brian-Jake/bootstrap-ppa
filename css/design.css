@@ -16,6 +16,7 @@ main {
     background: transparent;
     position: absolute;
     left: 50px;
+    float: left;
 }
 
 body {
@@ -29,9 +30,9 @@ h5 {
     margin-top: 27px;
 }
 
-.container>h1 {
-    margin: 1.5em;
-}
+/*.container>h1 {*/
+    /*margin: 1.5em;*/
+/*}*/
 
 .btn-circle {
     width: 95px;
@@ -102,10 +103,6 @@ h1, h2, h3, h4, h5, h6 {
     width: 18px;
 }
 
-h1 {
-    margin-top: 15px;
-}
-
 .links {
     background-color: white;
     text-align: right;
@@ -113,10 +110,6 @@ h1 {
     width: 100%;
     color: black;
     line-height: 3em;
-}
-
-.navbar-brand {
-    float: left;
 }
 
 .navbar {
@@ -174,4 +167,33 @@ h1 {
 
 .col {
     text-align: center;
+}
+
+.jumbotron {
+    background-color: white;
+    width: 100%;
+    height: 50px;
+    margin-top: 50px;
+}
+
+.banner>img {
+    height: 150px;
+    width: 150px;
+    margin-top: -70px;
+}
+
+.container2 {
+    text-align: center;
+}
+
+.small-title {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 1.5em;
+}
+
+.small-link {
+    margin: 0 auto;
+    color: black;
+    font-size: 20px;
 }
