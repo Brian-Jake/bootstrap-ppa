@@ -299,3 +299,11 @@ h1, h2, h3, h4, h5, h6 {
 .container {
     padding: 0;
 }
+
+@media screen and (min-width: 960px){
+    main {
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+
+}
